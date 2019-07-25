@@ -1,7 +1,7 @@
 # REBA
 Real-Time Electric Bill Analysis 
 
-Electric Bills are a real problem in Pakistan.
+Electiricty is a valued resourcse especially in Pakistan.
 Keeping track of electric consumption can lead to alot of monetary savings as well as helps save energy.
 REBA uses Machine Learning to caluclate your electronic device's consumption and generates the current cost of each active device.
 
